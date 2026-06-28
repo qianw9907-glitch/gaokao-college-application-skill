@@ -1,0 +1,7 @@
+interface:
+  display_name: "高考志愿核验助手"
+  short_description: "高考志愿梯度设计、官方数据核验与PDF提取"
+  default_prompt: "Use $gaokao-college-application to review my Gaokao college application plan, identify risks, and list the official data I still need to verify."
+
+policy:
+  allow_implicit_invocation: true
